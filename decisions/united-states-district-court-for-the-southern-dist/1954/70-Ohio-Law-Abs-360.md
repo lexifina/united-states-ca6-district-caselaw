@@ -1,0 +1,44 @@
+---
+court: "United States District Court for the Southern District of Ohio"
+docket: "3443"
+decided: "1954-07-30"
+citations: ["70 Ohio Law Abs. 360"]
+reporter: "ohio-law-abs"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GRANT et, Plaintiffs, v. BUSEY, COLLECTOR OF INTERNAL REVENUE, Defendant."]
+source_url: "https://static.case.law/ohio-law-abs/70/cases/0360-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1779748
+cites_cases: ["155 F. 2d 310", "164 A.L.R. 1030", "182 F 2d 921", "184 F. 2d 89", "196 F. 2d 83", "303 U. S. 493"]
+---
+
+# Grant v. Busey
+
+## Majority (By CECIL, District Judge.)
+
+OPINION
+By CECIL, District Judge.
+This action was brought by Esther E. Grant and Dorothy Ebersbach, co-executrices of the estate of Charles Ebersbach, deceased, as plaintiffs against Harry F. Busey, as collector of internal revenue of the United States, to recover the sum of $31,927.79 alleged to be an over-payment of a portion of the income taxes paid on the final individual return of the decedent for the year 1943.
+The question is whether or not the allocable share of partnership earnings of the decedent to the date of his death should be included in his gross income on his final individual income tax return.
+This presents the further questions of whether or not a partnership is dissolved by the death of a partner and whether or not in this case there was an agreement to continue the business of the partnership after the death of a partner.
+Specifically the question is whether or not the decedent’s share of the partnership income for the fiscal year beginning October 1, 1942 and ending September 30, 1943, a period extending 52 days beyond the death of the decedent, should be included in his final individual income tax return. The alternative to this is that none of the income of the partnership for this fiscal year should be included in the final individual tax return of the decedent. If not so included, it would be set up as income of his estate.
+The court finds the facts as set forth in the stipulations of the parties, the exhibits attached thereto, the exhibits offered in evidence at the time of trial and the additional facts from the evidence, that there was no closing of the partnership records on August 9, 1943 and that without such a closing, it would have been impossible to accurately ascertain the distributive share of the deceased as of that date.
+The court finds from these facts that the plaintiffs have failed to prove by a preponderance of the evidence that there was an agreement among the partners to continue the partnership beyond the death of any partner.
+Neither can the court infer from the facts before it that there was any such agreement, either expressed or implied.
+The court finds as a matter of law that it is the general rule in Ohio that a partnership is dissolved by the death of a partner.-
+The court being of the opinion that death dissolves a partnership, and finding that the plaintiffs have failed to prove that there was an agreement to continue with the partnership business, it is in accord with the conclusion reached by Chase, Circuit Judge, in the case of Commissioner of Internal Revenue v. Waldman’s Estate, 2 Cir, 196 F. 2d 83, 85: “The petitioner relies upon Henderson’s Estate v. Commissioner 5 Cir., 155 F. 2d 310 [164 A.L.R. 1030]; Girard Trust Co v. United States, 3 Cir., 182 F 2d 921, and Commissioner [of Internal Revenue] v. Mnookin’s Estate, 8 Cir., 184 F. 2d 89, as did the Tax Court, and we make no attempt to distinguish them but, with deference, reach the contrary decision which we think Guaranty Trust Co. v. Commissioner, supra [303 U. S. 493, 58 S. Ct. 673, 82 L.Ed. 975], requires.”
+If there were an agreement in this case to continue the partnership business after the death of a partner there might be some question as to the tax liability claimed by the government, but it seems that without such an agreement the plaintiffs’ claim is without foundation.
+In the original brief of counsel for the plaintiffs, it is argued that there was an oral agreement to continue the business, but in the reply brief, the position is shifted and it is claimed that the agreement attached to the stipulation of facts and marked “Exhibit A” constitutes such an agreement.
+To support the oral agreement counsel for plaintiffs say on page 7 “During the years 1940, 1941, 1942 and 1943 five partners, holding half of the original ownership of the partnership died prior to the death of Charles Ebersbach. None of these deaths affected any termination of the partnership business or changed its manner of filing an income tax return. The partnership books were closed, partnership returns were filed as of September 30, the close of each fiscal year and in place of the partner who had died during that' fiscal year, the name of his estate was shown as entitled to his distributive share.”
+These statements are not proven by the facts. It is true that some of the partnership returns offered in evidence as exhibits show the names of some estates as distributees. The court cannot assume any proof from these mere facts. The court knows nothing of the details of the handling of those transactions. If they were as claimed, they may have been erroneous and illegal. It is no sound argument to say that because such a course of conduct was followed in those cases, there must have been an agreement.
+It is also argued that in the 1943 partnership return, the estates of two other partners were shown as having received distributive shares. This is not determinative of anything in this case.
+The court cannot interpret the agreement to which reference was heretofore made, being Exhibit A attached to the stipulations, as a contract to continue the partnership business after death of a partner. This contract did not create a partnership. It recognized the existence of a partnership and provided for its management and liquidation. It provided that it was to be in effect for five years unless terminated by liquidation before that time. It also provided that any member could liquidate his interest upon his election in writing so to do.
+The mere statement that a contract is to be in existence for a certain number of years, does not take care of the contingency of death. Where partnership agreements are to continue after death, it is generally specifically stated.
+Counsel for plaintiffs cited §1779.08 R. C. as authority for the proposition that the death of a partner does not dissolve a partnership in Ohio. This section provides that by the original articles of a partnership in force at the death of a partner or by the will of a deceased partner, provision may be made for the settlement or disposition of a partnership interest contrary to the other methods provided by statute.
+This section is not applicable in this case for the reason that there is no evidence of any provisions made by the will of the deceased or any provisions made in the partnership articles.
+The court, having reached the conclusion that there was no agreement in this case to continue the partnership business after death, is of the opin-ion that neither Section 42 nor 126 of Title 26 U.S.C.A., is applicable.
+As was stated in the beginning of this opinion, the question is whether or not the final individual tax return of the decedent is to Dear the burden of the income of a full fiscal year, which is 52 days after his death, or whether it should bear none of that burden. It might be argued that the plaintiffs are entitled to have only so much of the partnership profits as accrued up to August 9, charged in the final individual tax return of the decedent. The court desires to point out that it was the responsibility of the plaintiffs to have a closing made as of that date and that the return of the entire fiscal year of the partnership in the final individual return of the decedent was the voluntary action of the plaintiffs.
+It is significant that the Guaranty Trust case, Girard Trust Co., Mnookin’s Estate and the Waldman’s Estate, all heretofore cited, required a bunching of income if the Guaranty Trust rule was followed. In all of these cases, there would have been nearly 18 months of partnership returns to be included in the final individual return of the taxpayer. In the case at bar. only one year of partnership returns would be included. If the plaintiffs prevail, then no partnership income will be included in the taxpayer’s final individual return.
+The conclusion of the court is that the plaintiffs are not entitled to recover the return of any of the tax previously paid and a judgment order may be drawn accordingly.
+The court is of the opinion that the findings of fact and conclusions of law are sufficiently set forth herein to comply with Rule 52 of the Federal Rules of Civil Procedure, 28 U.S.C.A.
