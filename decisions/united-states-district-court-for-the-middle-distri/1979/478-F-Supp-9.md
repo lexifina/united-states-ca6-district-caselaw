@@ -1,0 +1,37 @@
+---
+court: "United States District Court for the Middle District of Tennessee"
+docket: "79-3479"
+decided: "1979-09-18"
+citations: ["478 F. Supp. 9"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gerard HYNES, Wade Waguespak, Carl Franzen and Peter Henry, Plaintiffs, v. The METROPOLITAN GOVERNMENT OF NASHVILLE AND DAVIDSON COUNTY, Defendant."]
+source_url: "https://static.case.law/f-supp/478/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4115076
+cites_cases: ["312 U.S. 569", "347 F.Supp. 945", "374 F.Supp. 1010", "42 U.S.C. § 1983", "440 F.Supp. 414"]
+---
+
+# Hynes v. Metropolitan Government
+
+## Majority (WISEMAN, District Judge.)
+
+MEMORANDUM
+WISEMAN, District Judge.
+Plaintiffs have filed this civil rights suit pursuant to 42 U.S.C. § 1983. The case is presently before the Court on plaintiffs’ motion for a temporary restraining order to enjoin defendant from enforcing the regulation of the Fair Board restricting plaintiffs’ activities at the Tennessee State Fair to a booth or four feet therefrom. The facts necessary to a decision are before the Court by affidavit or stipulation. Both parties have been fully heard on the applicable law; both have been offered the opportunity to present additional proof and have declined the opportunity. The Court, therefore, advances the cause to final hearing under Rule 65(a)(2) of the Federal Rules of Civil Procedure, since it appears in all respects ripe for final determination.
+The Facts
+The four plaintiffs are devotees of the religion Krishna Consciousness as expressed by the International Society for Krishna Consciousness (“ISKCON”). ISKCON is an international religious society that espouses the missionary views of Hinduism of the Hindu denomination of Krishna Consciousness. Central to Krishna Consciousness is the duty imposed on its members to perform a religious ritual known as sankirtan. Devotees are thereby required to approach people in public places, disseminate religious literature, and solicit funds. Plaintiffs allege that sankirtan cannot be practiced from a booth.
+The Tennessee State Fair began on September 14, 1979, and will run for ten days through September 23, 1979. At this date, the fair will continue for six days. The Rules and Regulations for Exhibitors at the Tennessee State Fair provide as follows:
+No roving vendor or solicitor, acting from either a profit or nonprofit organization or on his own behalf, shall be permitted on the fairgrounds. All solicitations for either contributions or sale must be made from within the confines of a booth or display unless otherwise exempted by the regulations adopted by the Metropolitan Board of Fair Commissioners.
+Plaintiffs state that in early September 1979, they contacted the Tennessee State Fair for permission to circulate in public areas of the fair, but that such request was denied. Defendant, however, contends that plaintiffs did not make any formal request to the Fair Board for exemption from the coverage of the above rule. At this point, it is immaterial whether or not plaintiffs formally sought exemption. Defendant has made its position clear that it intends to limit plaintiffs’ activities to a booth or four feet therefrom.
+Discussion and Decision
+Defendant does not contest the jurisdiction of this Court under 42 U.S.C. § 1983. The actions of the defendant are “under color of law,” since the Fair Board is created pursuant to ordinance of the Metropolitan Government and statutes of the State of Tennessee. The question presented in this case is whether or not the regulation, quoted above, unconstitutionally restricts the exercise of plaintiffs’ First Amendment rights of speech and religion.
+First Amendment rights are not absolute. See Cox v. New Hampshire, 312 U.S. 569, 574, 61 S.Ct. 762, 765, 85 L.Ed. 1049, 1052-53 (1940). Restrictions on the time, place, and manner of exercise of First Amendment rights are constitutionally permissible if the regulation thereof is (1) nondiscriminatory, (2) in furtherance of a compelling state purpose, and (3) not overly broad but tailored to accomplish the compelling state purpose in the least restrictive manner possible under the circumstances. The restriction in this instance meets this three-pronged test and thus passes constitutional muster.
+The questioned regulation of the defendant is nondiscriminatorily applied to all exhibitors and solicitors. There is no indication that the fair officials have any discretion to decide what organization receives a booth. There is no inquiry into the beliefs or into the content of what the exhibitors wish to communicate to fairgoers. According to Ted Vaughan, the Manager of the Tennessee State Fair, a total of 181 exhibitors have rented booths at the fair this year, eleven of which are religious organizations. A booth is available for plaintiffs, and Mr. Vaughan has stated that he will make an effort to offer them a booth in as central a location as possible. There is absolutely no hint that plaintiffs have been or will be treated in a fashion different in any respect from any other exhibitor. See International Society for Krishna Consciousness, Inc. v. Evans, 440 F.Supp. 414, 421-22 (S.D.Ohio 1977).
+The compelling state purpose underlying the limitation of exhibitors’ activities is to permit any exhibitor or solicitor the opportunity to exercise the privilege freely without interruption or infringement by others seeking to exercise the same privilege. If plaintiffs were permitted roving solicitation, then every exhibitor would be entitled to do the same. It is conceivable that confrontations could occur in which several or all of the ten other religious groups would vie for the ear and attention of the same fair patron. The ensuing babel would not only be chaotic and destructive of good order, but would also deny to each exhibitor the meaningful exercise of its First Amendment rights.
+An additional interest that dovetails the right of one exhibitor to solicit from and communicate with fairgoers without interference from other exhibitors is the right of the fair patrons to their privacy and freedom from confrontations with exhibitors. Although a fairgoer necessarily gives up some of his privacy by venturing forth into a public area, he does not thereby relinquish all of his right to be let alone. The First Amendment does not mandate that a fair patron endure unwanted solicitation and proselytism from religious believers. The fairgoer should be permitted some choice as to what booth he desires to approach and with which exhibitors he desires to communicate.
+Taking into consideration the fact that there will be 181 exhibitors at this year’s fair and an anticipated average daily attendance of over 32,000 people, the regulation limiting plaintiffs’ access to the fair-goers is not overly broad. There does not seem to be any less restrictive means of implementing the state’s valid and compelling interest.
+For the foregoing reasons, plaintiffs’ motion for injunctive relief is denied and this cause dismissed at the costs of plaintiff.
+. For explanations and descriptions of ISKCON, see ISKCON v. Conlisk, 374 F.Supp. 1010 (N.D.Ill.1973); ISKCON v. New Orleans, 347 F.Supp. 945 (E.D.La.1972).
+. Immediately preceding the above rule on page 3 is the prohibition of solicitation of donations by exhibitors from their booths, which is in obvious contradiction to the rule quoted above.
