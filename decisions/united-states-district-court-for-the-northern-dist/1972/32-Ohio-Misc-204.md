@@ -1,0 +1,34 @@
+---
+court: "United States District Court for the Northern District of Ohio"
+docket: "C 69-959 T"
+decided: "1972-10-02"
+citations: ["32 Ohio Misc. 204"]
+reporter: "ohio-misc"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jones et al. v. Board of Education, Cleveland City School District, et al."]
+source_url: "https://static.case.law/ohio-misc/32/cases/0204-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1442485
+cites_cases: ["307 F. Supp. 295", "310 F. Supp. 1282", "327 F. Supp. 980", "431 F. 2d 967", "7 C. F. R. §245.3"]
+---
+
+# Jones v. Board of Education
+
+## Majority (Young, J.)
+
+Young, J.
+In this action, by which the plaintiffs seek to require the defendants to provide free or reduced price school lunches to all eligible children in the Cleveland City School System, both parties have filed motions for summary judgment.
+These motions present two separate problems. The first, and most important, is whether the defendants are required to serve lunches to all eligible children, instead of only to some, as it is presently doing. The second problem is whether the method used for paying for lunches when they are provided, violates the legal provision against overt identification of any of the children receiving free or reduced price lunches.
+As to the first problem, the defendants rely on the cases of Briggs v. Kerrigan, 307 F. Supp. 295 (D. Mass. 1969), aff’d per curiam, 431 F. 2d 967 (1st Cir. 1970) and Ayala v. District 60 School Board of Pueblo Colorado, 327 F. Supp. 980 (D. Colo. 1971). These eases are certainly squarely applicable to the facts of the present case, and support the defendants’ position that because lunches are served at some schools in the district does not require that all children eligible in the district be served. By way of a not-so-veiled threat the defendants refer to Shaw v. Governing Board of the Modesto City School District, 310 F. Supp. 1282 (E. D. Calif. 1970), where the court reached a conclusion contrary to Briggs, and the defendants retaliated by terminating all school lunch programs.
+However, it appears clear that the Congress became aware of these decisions, and in 1970, subsequent thereto, amended 42 U. S. Code, §1758 to include the following language :
+“ [B]ut, by January 1, 1971, any child who is a member of a household which has an annual income not above the applicable family size income level set forth in the income poverty guidelines shall be served meals free or at reduced cost..” (Emphasis this court’s.)
+Following this amendment, the Secretary of Agriculture promulgated a regulation (7 C. F. R. §245.3(a) (Supp. 1972)) which provides in part as follows:
+“Such standards shall specify the specific criteria to be used, respectively, for free lunches and for reduced price lunches; they shall be applicable to all schools under the jurisdiction of the school food authority; and they shall provide that all children from a family meeting the eligibility standards and attending any school under the jurisdiction of the school food authority shall be provided the same benefits.” (Emphasis this court’s.)
+In the light of these clear and unambiguous provisions of law, it is clear that the cases relied upon by the defendants are no longer controlling, and the inhumanly callous method used by the Modesto Board to avoid complying with the court’s order has become unavailable.
+It is well that this should be so. Present day knowledge of human growth and development leaves no question that the ancient practice of condemning poor children to slow starvation has consequences so damaging, and so completely irreversible that no government which permits it can long survive. The one place where the state has direct control of all children is in the school system. It can and must do there what the welfare programs are made to fail to do elsewhere: insure that growing children of tender years are not completely starved.
+The court recognizes the financial problems of the school districts, and the difficulty of using meagre resources to the best effect. But programs, books, and teachers are of little help to a child whose receptivity to learning is dulled by the gnawing of hunger. If there is not enough money to do everything, nourishing the body must come first.
+For this reason, as to the first of the problems presented by the motions of the parties, the motion of the defendants for a summary judgment will be overruled, and the motion of the plaintiffs will be granted, and a partial summary judgment entered in their favor.
+As to the second matter, it is clear from the record that there is a dispute as to the material facts. Thus it is impossible to grant a summary judgment in favor of either of these parties, and the motions will be overruled.
+Counsel for plaintiffs may prepare and submit an entry expressive of the court’s findings and conclusions.
+Summary judgment granted.
