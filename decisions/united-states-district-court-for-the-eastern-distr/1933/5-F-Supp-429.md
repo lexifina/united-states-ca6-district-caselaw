@@ -1,0 +1,29 @@
+---
+court: "United States District Court for the Eastern District of Michigan"
+docket: "3664"
+decided: "1933-12-29"
+citations: ["5 F. Supp. 429"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNITED STATES v. BORKE."]
+source_url: "https://static.case.law/f-supp/5/cases/0429-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4129633
+cites_cases: ["128 U. S. 398", "20 L. Ed. 153", "299 F. 75"]
+---
+
+# United States v. Borke
+
+## Majority (TUTTLE, District Judge.)
+
+TUTTLE, District Judge.
+The defendant in this case is charged with the offense of having violated the National Prohibition Act, 27 USCA (being the so-called Volstead Law), prior to the time when the repeal of the Eighteenth Amendment to the United States Constitution became effective, and the criminal proceedings against him for such alleged offense are still pending herein. The sole question now presented in this cause is whether the repeal of the Eighteenth Amendment has deprived this court of the power to convict the defendant of the offense so charged against him.
+There can be no doubt that, in the absence of statutory provisions to the contrary, the repeal of a criminal statute, without express provisions therein providing otherwise, terminates liability to punishment, after the time of such repeal, for a violation of such statute committed prior to its repeal. United States v. Tynen, 11 Wall. (78 U. S.) 88, 20 L. Ed. 153; United States v. Reisinger, 128 U. S. 398, 9 S. Ct. 99, 32 L. Ed. 480; Landen v. United States, 299 F. 75 (C. C. A. 6).
+As was said by the Supreme Court in the first of the cases just cited (11 Wall. [78 U. S.] 88, at page 95, 20 L. Ed. 153): “There can be no legal conviction, nor any valid judgment pronounced upon conviction, unless the law creating the offence be at the time in existence. By the repeal the legislative will is expressed that no further proceedings be had under the act repealed.”
+In the language of Judge Denison, speaking for the Circuit Court of Appeals for the Sixth Circuit, in Landen v. United States, supra, 299 F. 75, at page 78: “It was a familiar common-law rule that, after a statute creating an offense was repealed without a saving clause, there could be no further criminal prosecution for its violation, and even prosecutions pending at the date of the repeal were abated.”
+The government, however, cites in this connection section 29 of title 1 of the United States Code, 1 USCA § 29 (which was formerly section 13 of the United States Revised Statutes), which provides as follows: “The repeal of any statute shall not have the effect to release or extinguish any penalty, forfeiture, or liability incurred under such statute, unless the repealing Act shall so expressly provide, and such statute shall be treated as still remaining in force for the purpose of sustaining any proper action or prosecution for the enforcement of such penalty, forfeiture, or liability.”
+The statute just quoted was enacted by Congress and can, of course, have only such force and effect as Congress has constitutional power to give to it. If this statute is inconsistent] with any provision of the United States Constitution, it is to that extent necessarily invalid and void. In other words, if the statute so relied upon here by the court be unconstitutional in so far as it is claimed to be applicable to the present ease, such statute must be ignored in the consideration of the question here involved.
+Now it will be noted that the last-mentioned statute provides that, even after the repeal of a statute, such statute so repealed “shall be treated as still remaining in force for the purpose of” prosecution thereunder, and that obviously constituted the basis of the statutory rule there prescribed. In substance and effect Congress, by this statute, expressly qualified and limited the scope and effect of its subsequent repeal of other statutes so as to' make such repeal subject to the condition that it should not affect pending prosecutions for the violation of the statute so repealed, just as if it had inserted in every such subsequent repeal a saving clause to that effect. If, therefore, this statute is applicable to the present ease, its effect would be -to render the repeal of the Eighteenth Amendment subject to a saving clause continuing in force, after such repeal, such amendment for the purpose of criminal prosecutions for previous violations of statutes, such as the National Prohibition Act, enacted thereunder. The power, however, of Congress to enact the National Prohibition Act was derived solely from the Eighteenth Amendment, and except for that amendment such act would have been clearly without any constitutional basis, as is not here disputed by the government. So that, if section-29 of title 1 of the United States Code, already quoted, were applied to this ease, the result would be that, notwithstanding the absolute repeal, without any reservation, limitation, or saving clause, of the only constitutional basis of the National Prohibition Act, that act would remain in force for the purpose of prosecutions for previous violations of it. This, however, would mean in effect that Congress could qualify, and thus amend, a constitutional provision, namely, the repeal of the Eighteenth Amendment.
+It thus becomes clear, beyond the need for further discussion, that the said section 29 has no application here, and that therefore, under the settled rule of common law already ¡stated, the repeal of the Eighteenth Amendment terminated the power of this court to punish or convict the defendant for any violation of the National Prohibition Act.
+For the reasons stated, the defendant is entitled to an order in accordance with the terms of this opinion, and such an order may be entered.
