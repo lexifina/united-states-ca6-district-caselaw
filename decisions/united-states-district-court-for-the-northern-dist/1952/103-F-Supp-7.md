@@ -1,0 +1,34 @@
+---
+court: "United States District Court for the Northern District of Ohio"
+docket: "Civ. No. 26698"
+decided: "1952-03-18"
+citations: ["103 F. Supp. 7"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLARD STORAGE BATTERY CO. v. CAREY, Collector of Internal Revenue."]
+source_url: "https://static.case.law/f-supp/103/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 336369
+cites_cases: ["141 F.2d 376", "141 F.2d 655", "148 F.2d 51", "173 F.2d 776", "26 U.S.C.A. §§ 1400", "26 U.S.C.A. §§ 1607", "331 U.S. 704", "332 U.S. 126"]
+---
+
+# Willard Storage Battery Co. v. Carey
+
+## Majority (JONES, Chief Judge.)
+
+JONES, Chief Judge.
+This is an action by the Willard Storage Battery Company to recover alleged over-payments of Federal employment taxes. The case was heard on stipulations, deposition and oral testimony, and was submitted upon adequate briefs. There is no dispute as to the amounts involved, and it is conceded by the Collector that the claim for refund, which was disallowed by the Commissioner of Internal Revenue, was timely made. The sole question presented for determination is whether the taxes imposed by the defendant Collector upon payments made by plaintiff to physicians who examined and treated its employees were proper under Sections 1400, 1410, and 1600 of the Internal Revenue Code. 26 U.S.C.A. §§ 1400, 1410, 1600. Decision rests upon a factual determination of whether the physicians were employees of the plaintiff company within t'he meaning of Sections 1607(i) and 1426(d) as amended in 1948, 26 U.S.C.A. §§ 1607(i), 1426(d), which define an “employee” for purposes of the Section 1600, Section 1400, and Section 1410 taxes.
+In defining an “employee”, Sections 1607 (i) and 1426(d) adopt the common-law rules. Controlling decisions and the legislative history make it clear that these rules are to be “realistically applied”. United States v. Silk, 331 U.S. 704, 67 S.Ct. 1463, 91 L.Ed. 1757; Bartels v. Birmingham, 332 U.S. 126, 67 S.Ct. 1547, 91 L.Ed. 1947; Senate Report No. 1255, U.S.Code Cong. Service (1948), p. 1752.
+By a fair and realistic application of the common-law rules to the facts presented here, these physicians were not, in my opinion, employees of the plaintiff company.
+The contracts between the physicians and the plaintiff company indicate that the rights and obligations of an employer-employee relationship were not being assumed. Professional services requiring a high degree of skill were contracted for. Direct control and supervision by the plaintiff company over the details and means by which the work was to be accomplished was not contemplated. Glenn v. Beard, 6 Cir., 141 F.2d 376; United States v. Mutual Trucking Co., 6 Cir., 141 F.2d 655; Glenn v. Standard Oil Co., 6 Cir., 148 F.2d 51; Brady v. Periodical Publishers’ Service Bureau, 6 Cir., 173 F.2d 776. The contracts provided that the physicians were to use such methods as they saw fit “in accordance with the best established practice”.
+Under the contractual arrangements here, there was a mutual right to terminate. While the right to terminate might be construed to be a right of discharge (one of the indicia of an employer-employee relationship) such a construction of the provision here would not be.realistic, because the parties were given the benefit of notice and there was no right to terminate immediately.
+The actual practice of the parties fortifies my interpretation of the contract provisions. The evidence, I think, conclusively establishes that there was not in fact that degree of control over the activities of the physicians which would indicate an employer-employee relationship. Glenn v. Standard Oil Co., supra; Glenn v. Beard, supra. The physicians were not “as a matter of economic reality * * * dependent upon the business” to which they rendered service. Eartels v. Birmingham, supra, 332 U.S. at page 130, 67 S.Ct. at page 1550.
+The evidence shows that the physicians performed only part-time service for the plaintiff company. During the years in question, they maintained private practices to which most of their time was devoted. They were free to leave- the company premises even during the hours they were scheduled to work, if an emergency case in their private practice required their presence. The compensation they received from the company was only a fraction of their total incomes during the years in question.
+The Collector points to the company’s investment in facilities and the physicians’ reports to the company which were made on forms supplied by it, as indicative of an employer-employee relationship. It must be recognized, however, that some organization was necessary to carry out the contractual undertaking. The acts to which the Collector refers were directed to that end.
+Indeed, the Collector’s reliance upon the Treasury Regulations (106, Section 402.-204) as to who are employees is rather tenuous when the language of the regulation is fairly considered. To quote the language of that regulation intended to supplement and explain the provision of the Act, I think the following will be illustrative:
+"Generally such relationship exists when the person for whom services are performed has the right to control and direct the individual who performs the services, not only as to the result to be accomplished by the work but also as to- the details and means by which that result is accomplished. That is, an employee is subject to the will and control of the employer not only as to what shall be done but 'how it shall be done. * * * In general, if an individual is subject to the control or direction of another merely as to the result to be accomplished by the work and not as to the means and methods for accomplishing the result, he is an independent contractor. * * ❖
+“Generally, physicians, lawyers, dentists, veterinarians, contractors, subcontractors, public stenographers, auctioneers, and others who follow, an independent trade, business, or profession, in which they offer their services to the public, are independent contractors and not employees.”
+These excerpts from the Treasury Regulation interpreting the Tax Act clearly seem to me to exclude the relationship here from the incidence of the tax.
+Finally, the Collector attaches some significance to the fact that two of the physicians took out social security cards, and some’ received turkeys at Christmas time. ' These acts hardly are determinative of an employer-employee relationship. The physicians’ or the company’s erroneous belief that the tax applied to them is not binding, and the traditional generous Christmas spirit carries no economic implication of employee relationship.
+For the foregoing reasons, I am of the 'Opinion that the taxpayer is entitled to the refund. Accordingly, judgment may be entered in the amount prayed and stipulated.
