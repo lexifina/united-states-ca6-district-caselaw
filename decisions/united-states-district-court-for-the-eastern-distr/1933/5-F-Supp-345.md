@@ -1,0 +1,28 @@
+---
+court: "United States District Court for the Eastern District of Michigan"
+docket: "13064"
+decided: "1933-12-02"
+citations: ["5 F. Supp. 345"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RAILWAY EXPRESS AGENCY, Inc., v. THOMAS et al."]
+source_url: "https://static.case.law/f-supp/5/cases/0345-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4130219
+cites_cases: ["110 N. W. 499", "118 Am. St. Rep. 537", "122 N. W. 547", "123 Ind. 78", "133 Am. St. Rep. 362", "137 N. Y. S. 796", "147 Mich. 72", "152 App. Div. 761", "158 Mich. 94", "18 Am. St. Rep. 312", "185 N. Y. S. 198", "194 App. Div. 384", "199 N. Y. S. 700", "205 App. Div. 669", "24 N. E. 173", "7 L. R. A. 442", "9 L. R. A. (N. S.) 698", "94 U. S. 343"]
+---
+
+# Railway Express Agency, Inc. v. Thomas
+
+## Majority (KNIGHT, District Judge.)
+
+KNIGHT, District Judge.
+Defendant Ben Levin was engaged in business in the city of Detroit, Mich., under the name of Tilben Cutlery Company. On the morning of February 11,1933, a shipment of goods was delivered to him by the Railway Express Agency, Inc. Payment for the goods was made by means of a cheek for $719.51, on the First National Bank-Detroit, Mich., drawn to the order of the Railway Express Agency. The bank closed at 12 o’clock of the same day, and has not reopened for business.
+The plaintiff asserts that at the time of delivery the cheek of defendant had been certified by the bank. Defendant’s pleading admitted this, but on the trial defendant contended that the certification was procured by the plaintiff subsequent to its delivery, and that he is thereby relieved from liability under section 9437 of the 1929 Compiled Laws of Michigan. This sections reads as follows: “Where the holder of a check procures it to be accepted or certified, the drawer and all indorsers are discharged from liability thereon.”
+Defendant also has raised the contention that no consideration passed from plaintiff in its capacity as principal to defendant Levin, and that plaintiff is barred by institution of its suit against the bank by reason of election of remedy and estoppel.
+The evidence preponderates that defendant Levin procured the cheek to be certified before delivery of it to the plaintiff. Orchard, agent of plaintiff, testified that the cheek, when delivered to him, was certified. Plaintiff’s records in evidence bear an indorsement showing delivery of the express order at 10:45 a. m., and other facts and circumstances were shown which tend to corroborate the testimony of the agent.
+At the time of trial defendant argued that his discharge was effected whether the certification of the cheek was obtained by the payee or the drawer. At that time citation was made of First National Bank of Washington v. Whitman, 94 U. S. 343, 24 L. Ed. 229. I have been unable to find any ease supporting the observation there expressed to the effect that it is not important whether the certification is secured by drawer or payee. On the contrary, courts in many jurisdictions have found that the question is of importance. The distinction seems to be that certification by the payee is equivalent to payment, because payment could have been had at the time of certification and payee’s election to have certification and make the bank his debtor rather than receive payment should not prejudice the drawer. However, where the drawer secures certification, while the effect as between drawer and drawee is the same, there is no equivalent to payment of the payee. He has not had an opportunity to secure payment in cash, and the drawer by procuring certification cannot force the payee to accept the bank as his debtor to his prejudice. First National Bank v. Union Trust Co., 158 Mich. 94, 122 N. W. 547, 133 Am. St. Rep. 362; First National Bank of Detroit v. Currie, 147 Mich. 72, 110 N. W. 499, 9 L. R. A. (N. S.) 698, 118 Am. St. Rep. 537, 11 Ann. Cas. 241; Olsen v. Bankers’ Trust Co., 205 App. Div. 669, 199 N. Y. S. 700; Lipten v. Columbia Trust Co., 194 App. Div. 384, 185 N. Y. S. 198; Davenport v. Palmer, 152 App. Div. 761, 137 N. Y. S. 796; Born v. First National Bank of Indianapolis, 123 Ind. 78, 24 N. E. 173, 7 L. R. A. 442, 18 Am. St. Rep. 312. The record disclosing that certification of the check in question was procured by the drawer, it follows that he -has not been discharged from liability to the plaintiff.
+Plaintiff cites, as its authority for bringing action in its own name rather than that of its principal, section 9300 of the 1929 Compiled Laws of Michigan, which provides: “The holder of a negotiable instrument may sue thereon in his own name, and payment to him in due course discharges the instrument.” Defendant admits that this confers leave to bring the action, but asserts that it is no bar to the interposing of the defense of no consideration. Assuming defendant’s argument to be correct, this defense has not been proved. Defendant received the merchandise consigned to him, which would not have been the case had he not paid for it, either in cash or by check, at the time of delivery. The consideration for the check which he gave plaintiff is amply shown.
+Defendant’s contention that plaintiff is barred from action against him by reason of its suit against the bank is not sound. Plaintiff has not elected to proceed against the bank alone but also against defendant Levin, which it had the right to do under the authorities above cited.
+Let the plaintiff have judgment for $710.-51, and interest from February 11,1933, and costs.
