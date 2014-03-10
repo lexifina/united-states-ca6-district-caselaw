@@ -1,0 +1,45 @@
+---
+court: "United States District Court for the Southern District of Ohio"
+docket: "Case No. 1:13cv289"
+decided: "2014-03-10"
+citations: ["5 F. Supp. 3d 930"]
+reporter: "f-supp-3d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lori SMITH, et al., Plaintiffs, v. SMITH & NEPHEW, INC., Defendant."]
+source_url: "https://static.case.law/f-supp-3d/5/cases/0930-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4144053
+cites_cases: ["2013 WL 1284185", "550 U.S. 544", "556 U.S. 662", "561 F.3d 478", "649 F.Supp.2d 757", "668 F.3d 393", "846 F.Supp.2d 791", "863 F.Supp.2d 677", "880 F.Supp.2d 801", "913 F.Supp.2d 490"]
+---
+
+# Smith v. Smith & Nephew, Inc.
+
+## Majority (MICHAEL R. BARRETT, District Judge.)
+
+OPINION & ORDER
+MICHAEL R. BARRETT, District Judge.
+This matter is before the Court upon Defendant Smith & Nephew’s Motion to Dismiss. (Doc. 5.) Plaintiffs Lori and Todd Smith filed a Response in Opposition (Doc. 13) and Defendant filed a Reply (Doc. 15).
+I. BACKGROUND
+Plaintiffs are husband and wife. (Doc. 1, ¶ 2.) Plaintiffs’ claims are based on the Smith & Nephew “R3 Acetabular System with a metal liner components” (“MoM Hip System”). The MoM Hip System was used to replace both of Plaintiff Lori Smith’s hips. (Doc. 1, Complaint ¶ 31.) Plaintiffs claim the MoM Hip System is defective.
+Plaintiffs bring claims for (1) product defect in manufacture and design under Ohio Rev.Code § 2307.74; (2) product defect in design or formulation under Ohio Rev.Code § 2307.75; (3) product defect due to inadequate warning and/or instructions under Ohio Rev.Code § 2307.76; (4) product defect in the failure to conform to representations under Ohio Rev.Code § 2307.77; (5) breach of express warranty; (6) breach of implied warranty; (7) negligence; (8) loss of consortium; and (9) violations of the Ohio Consumer Sales Practices Act and the Ohio Deceptive Trade Practices Act.
+In their Motion to Dismiss, Defendant seeks to dismiss the following claims: breach of express warranty (Fifth Cause of Action), breach of implied warranty (Sixth Cause of Action), negligence (Seventh Cause of Action) and violations of the Ohio Consumer Sales Practices Act (“OCS-PA”) and Ohio Deceptive Trade Practices Act (“ODTPA”) (Ninth Cause of Action). Defendant’s Motion does not address the remainder of the claims.
+Plaintiffs agree that their claims for breach of express warranty and negligence are abrogated by the Ohio Product Liability Act (“OPLA”) and do not object to their dismissal. Therefore, Plaintiffs’ claims for breach of express warranty and negligence are DISMISSED. However, Plaintiffs argue that their claims for breach of implied warranty and for violations of the OCSPA and ODTPA should not be dismissed.
+II. ANALYSIS
+A. Motion to Dismiss Standard
+“In assessing a motion to dismiss under Rule 12(b)(6), this court construes the complaint in the light most favorable to the plaintiff, accepts the plaintiffs factual allegations as true, and determines whether the complaint ‘contain[s] sufficient factual matter, accepted as true, to state a claim to relief that is plausible on its face.’” Heinrich v. Waiting Angels Adoption Servs., Inc., 668 F.3d 393, 403 (6th Cir.2012) (quoting Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S.Ct. 1937, 173 L.Ed.2d 868 (2009)) (alteration in original). To properly state a claim, a complaint must contain a “short and plain statement of the claim showing that the pleader is entitled to relief.” Fed.R.Civ.P. 8(a)(2). “[T]o survive a motion to dismiss, a complaint must contain (1) ‘enough facts to state a claim to relief that is plausible,’ (2) more than ‘a formulaic recitation of a cause of action’s elements,’ and (3) allegations that suggest a ‘right to relief above a speculative level.’ ” Tackett v. M & G Polymers, USA LLC, 561 F.3d 478, 488 (6th Cir.2009) (quoting Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 127 S.Ct. 1955, 167 L.Ed.2d 929 (2007)). “A claim has facial plausibility when the plaintiff pleads factual content that allows the court to draw the reasonable inference that the defendant is liable for the misconduct alleged.” Iqbal, 556 U.S. at 678, 129 S.Ct. 1937.
+B. Ohio Products Liability Act
+While Plaintiffs agree that their claims for breach of express warranty and negligence are abrogated by the OPLA, they argue that their claim for breach of implied warranty is grounded in the Uniform Commercial Code (“UCC”) and is therefore not abrogated by the OPLA. Accord CCB Ohio LLC v. Chemque, Inc., 649 F.Supp.2d 757 (S.D.Ohio 2009) (“Plaintiffs’ warranty claims can find a basis grounded in the Uniform Commercial Code and therefore are not claims abrogated by the OPLA”).
+However, Plaintiffs explain that their Complaint does not specifically cite to Ohio Revised Code § 1302.27, which is a part of Ohio’s codification of the UCC and provides that “a warranty that the goods shall be merchantable is implied in a contract for their sale if the seller is a merchant with respect to goods of that kind.” Plaintiffs seek leave to amend their Complaint to include specific references to the statute. Defendant does not object to Plaintiffs’ request for leave to amend their Complaint for this purpose. Accordingly, Plaintiffs will be permitted to amend their Complaint to clarify that their claim is one for implied warranty of merchantability under Ohio Revised Code § 1302.27 and not a common-law claim for implied warranty.
+C. Ohio Deceptive Trade Practices Act
+Defendants argue that Plaintiffs have no standing to bring a claim under the Ohio Deceptive Trade Practices Act. Plaintiffs cite to a number of decisions issued by Ohio courts which permitted claims brought by consumers to proceed under the ODTPA. However, this Court is persuaded by recent decisions of this Court which have held that consumers lack standing to bring a ODTPA claim. In re Porsche Cars N. Am., 880 F.Supp.2d 801, 874 (S.D.Ohio 2012); Gascho v. Global Fitness Holdings, LLC, 863 F.Supp.2d 677, 699 (S.D.Ohio 2012) (noting that at least one Ohio appellate court has found that consumers lack standing under the ODT-PA and judges in the Northern District of Ohio have consistently found that consumers lack standing under the ODTPA); see also Allen v. Andersen Windows, Inc., 913 F.Supp.2d 490, 513 (S.D.Ohio 2012) (“see[ing] no reason to depart from its holding in In re Porsche ” and dismissing consumer’s ODTPA claim). Therefore, as individual consumers, Plaintiffs lack standing to bring a claim under the ODTPA and this claim is DISMISSED.
+D. Ohio Consumer Sales Practices Act
+Defendant argues that the MoM Hip System is a medical device and not a consumer good under Ohio law. As a consequence, there was no “consumer transaction” under the OCSPA.
+The OCSPA provides: “No supplier shall commit an unfair or deceptive act or practice in connection with a consumer transaction. Such an unfair or deceptive act or practice by a supplier violates this section whether it occurs before, during, or after the transaction.” Ohio Rev.Code § 1345.02(A). The OCSPA defines “consumer transaction” as “a sale, lease, assignment, award by chance, or other transfer of an item of goods, a service, a franchise, or an intangible, to an individual for purposes that are primarily personal, family, or household, or solicitation to supply any of these things.” Ohio Rev.Code § 1345.01(A).
+Two federal district courts have concluded that medical devices are not “consumer goods” under the OCSPA. Reeves v. PharmaJet, Inc., 846 F.Supp.2d 791, 798, n. 2 (N.D.Ohio 2012) (explaining in a footnote that the defendant’s “prescription medical device is not a good for personal, family or household use and thus is not a consumer good as defined by the OCS-PA.”); Williams v. Boston Scientific Corp., 3:12CV1080, 2013 WL 1284185, *6 (N.D.Ohio Mar. 27, 2013) (citing Reeves and explaining that the medical device was not a “consumer good” because the hospital, not the plaintiff was the consumer under the OCSPA). While these courts have presented little in the way of analysis, their conclusion appears to be correct. The MoM Hip System was purchased by the hospital, not Plaintiffs, and therefore it was not a part of a consumer transaction within the definition of OCSPA. Accordingly, Plaintiffs’ claim under the OCSPA is DISMISSED.
+III. CONCLUSION
+Based on the foregoing, Defendant Smith & Nephew’s Motion to Dismiss (Doc. 5) is GRANTED:
+1. Plaintiffs’ claims for breach of express warranty (Fifth Cause of Action); negligence (Seventh Cause of Action); and violations of the Ohio Consumer Sales Practices Act (“OCSPA”) and Ohio Deceptive Trade Practices Act (“ODTPA”) (Ninth Cause of Action) are DISMISSED;
+2. Plaintiffs are granted leave to amend the Complaint to omit the dismissed claims and clarify that their claim for breach of implied warranty (Sixth Cause of Action) is one for implied warranty of merchantability under Ohio Revised Code § 1302.27;
+3. Plaintiffs shall file their Amended Complaint within fourteen (14) days of entry of this Order.
+IT IS SO ORDERED.
